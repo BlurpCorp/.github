@@ -15,7 +15,7 @@ Refer to `CONTRIBUTING.md` in each repository for contribution guidelines, the c
 Ce profil d'organisation contient le développement logiciel de Les Entreprises Blurp Corp. Nous vous remercions de l'intérêt que vous portez à notre entreprise alors que nous bâtissons pour l'avenir.
 
 ## Déclaration d’objet social de Les Entreprises Blurp Corp.
-Les Entreprises Blurp Corp. apporte les dernières technologies aux entreprises en offrant de la publicité innovante, des solutions interentreprises (B2B - business-to-business) et des produits prêts pour le marché.
+Les Entreprises Blurp Corp. permet aux entreprises d'accéder à la technologie de pointe tout en offrant de la publicité innovante, des solutions interentreprises (B2B - business-to-business) et des produits prêts pour le marché.
 
 ## Contributions
-Consultez `CONTRIBUTING.md` dans chaque dépôt pour les consignes de contribution, le code de conduite et le processus de demandes de tirage (PR - pull request). Nous accueillons les rapports de bogues, les corrections de documentation et les petites contributions de fonctionnalités.
+Consultez `CONTRIBUTING.md` dans chaque dépôt pour les consignes de contribution, le code de conduite et le processus de demandes de tirage (PR - pull request). Nous accueillons les rapports de bogues, les corrections de documentation et les petites contributions fonctionnelles.
